@@ -21,7 +21,6 @@ export default {
 .main{
   float: left;
   width: 95%;
-  background-color: black;
   height: 800px;
   overflow: auto;
 }
